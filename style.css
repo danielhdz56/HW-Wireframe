@@ -29,6 +29,7 @@ body {
 	margin: 10px 10px 10px 100px;
 	padding: 20px;
 	text-align: center;
+	width: 495px;
 }
 
 .article {
@@ -50,13 +51,17 @@ body {
 	margin: 10px 100px 10px 10px;
 	background-color: #ebebeb;
 	color: #777;
-	padding: 100%;
-	padding: 20px 120px 214px 120px;
+	padding: 20px 100px 214px 100px;
 
+	
 	text-align: center;
 
 }
 
+
+.content {
+	width: 100%;
+}
 .clear {
 	clear: both;
 }
